@@ -299,25 +299,25 @@
           <mxGeometry x="1250" y="415" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5PYBDwZLLyJBEGd_GKp0-3" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fillColor=none;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="1046.13" y="730" width="383.87" height="300" as="geometry" />
+          <mxGeometry x="1131.13" y="658.25" width="383.87" height="300" as="geometry" />
         </mxCell>
         <mxCell id="5PYBDwZLLyJBEGd_GKp0-4" value="视频专网区" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1066.13" y="699.6" width="80" height="30" as="geometry" />
+          <mxGeometry x="1151.13" y="627.85" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5PYBDwZLLyJBEGd_GKp0-5" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.1u_2u_server;" vertex="1" parent="1">
-          <mxGeometry x="1125" y="818.0000000000001" width="100" height="39.1" as="geometry" />
+          <mxGeometry x="1210" y="746.2500000000001" width="100" height="39.1" as="geometry" />
         </mxCell>
         <mxCell id="5PYBDwZLLyJBEGd_GKp0-6" value="设备接入服务器" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1120" y="863.0000000000001" width="110" height="30" as="geometry" />
+          <mxGeometry x="1205" y="791.2500000000001" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5PYBDwZLLyJBEGd_GKp0-7" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.1u_2u_server;" vertex="1" parent="1">
-          <mxGeometry x="1275" y="818.0000000000001" width="100" height="39.1" as="geometry" />
+          <mxGeometry x="1360" y="746.2500000000001" width="100" height="39.1" as="geometry" />
         </mxCell>
         <mxCell id="5PYBDwZLLyJBEGd_GKp0-8" value="设备接入服务器" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1270" y="863.0000000000001" width="110" height="30" as="geometry" />
+          <mxGeometry x="1355" y="791.2500000000001" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5PYBDwZLLyJBEGd_GKp0-9" value="安全边界" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1020.0000000000001" y="760.0500000000001" width="40" height="230" as="geometry" />
+          <mxGeometry x="1105" y="688.3000000000001" width="40" height="230" as="geometry" />
         </mxCell>
         <mxCell id="5PYBDwZLLyJBEGd_GKp0-10" value="" style="endArrow=none;html=1;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="f285Z3YbVFBFcrV0KMRG-6" target="5PYBDwZLLyJBEGd_GKp0-9">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
