@@ -320,7 +320,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="5PYBDwZLLyJBEGd_GKp0-12" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fillColor=none;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="1121.13" y="1082.05" width="383.87" height="300" as="geometry" />
+          <mxGeometry x="1108.0600000000002" y="1095.35" width="383.87" height="300" as="geometry" />
         </mxCell>
         <mxCell id="5PYBDwZLLyJBEGd_GKp0-13" value="行业接入" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="1146.13" y="1051.65" width="70" height="30" as="geometry" />
