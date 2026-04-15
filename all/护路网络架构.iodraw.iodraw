@@ -290,7 +290,7 @@
           <mxGeometry x="1120" y="345" width="40" height="230" as="geometry" />
         </mxCell>
         <mxCell id="f285Z3YbVFBFcrV0KMRG-90" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.firewall;" parent="1" vertex="1">
-          <mxGeometry x="988.87" y="400" width="57.26" height="71" as="geometry" />
+          <mxGeometry x="892.74" y="264.5" width="57.26" height="71" as="geometry" />
         </mxCell>
         <mxCell id="f285Z3YbVFBFcrV0KMRG-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.021;entryY=0.451;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="f285Z3YbVFBFcrV0KMRG-90" target="f285Z3YbVFBFcrV0KMRG-89" edge="1">
           <mxGeometry relative="1" as="geometry" />
