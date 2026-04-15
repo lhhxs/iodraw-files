@@ -314,9 +314,7 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="635" y="490" as="sourcePoint" />
             <mxPoint x="910" y="515" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="990" y="600" />
-            </Array>
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5PYBDwZLLyJBEGd_GKp0-12" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fillColor=none;dashed=1;" vertex="1" parent="1">
