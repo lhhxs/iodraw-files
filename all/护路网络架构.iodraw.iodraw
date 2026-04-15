@@ -310,7 +310,7 @@
         <mxCell id="5PYBDwZLLyJBEGd_GKp0-9" value="安全边界" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1105" y="688.3000000000001" width="40" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="5PYBDwZLLyJBEGd_GKp0-10" value="" style="endArrow=none;html=1;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="f285Z3YbVFBFcrV0KMRG-6" target="5PYBDwZLLyJBEGd_GKp0-9">
+        <mxCell id="5PYBDwZLLyJBEGd_GKp0-10" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="f285Z3YbVFBFcrV0KMRG-6" target="5PYBDwZLLyJBEGd_GKp0-9">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="635" y="490" as="sourcePoint" />
             <mxPoint x="910" y="515" as="targetPoint" />
@@ -353,6 +353,15 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="635" y="440" as="sourcePoint" />
             <mxPoint x="414" y="369" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5PYBDwZLLyJBEGd_GKp0-22" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="695" y="463" as="sourcePoint" />
+            <mxPoint x="1135" y="698" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1000" y="610" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
