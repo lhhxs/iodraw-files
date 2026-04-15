@@ -362,7 +362,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="f285Z3YbVFBFcrV0KMRG-10" value="千兆接入&lt;div&gt;交换机&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="460" y="465" width="70" height="40" as="geometry" />
+          <mxGeometry x="460" y="475" width="70" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
