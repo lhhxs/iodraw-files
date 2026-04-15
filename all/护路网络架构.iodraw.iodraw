@@ -360,8 +360,8 @@
         <mxCell id="f285Z3YbVFBFcrV0KMRG-10" value="千兆接入&lt;div&gt;交换机&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="460" y="475" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="5PYBDwZLLyJBEGd_GKp0-26" value="政务外网&lt;div&gt;核心交换&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="346.37" y="385" width="70" height="40" as="geometry" />
+        <mxCell id="5PYBDwZLLyJBEGd_GKp0-26" value="防火墙&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="351.37" y="385" width="60" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
