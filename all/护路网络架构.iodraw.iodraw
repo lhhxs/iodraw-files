@@ -336,7 +336,7 @@
           <mxGeometry x="1290" y="1147.65" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5PYBDwZLLyJBEGd_GKp0-18" value="安全边界" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1178.06" y="996.3000000000001" width="160" height="31.65" as="geometry" />
+          <mxGeometry x="1188.07" y="996.3000000000001" width="160" height="31.65" as="geometry" />
         </mxCell>
         <mxCell id="5PYBDwZLLyJBEGd_GKp0-21" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="f285Z3YbVFBFcrV0KMRG-1" target="f285Z3YbVFBFcrV0KMRG-90">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
