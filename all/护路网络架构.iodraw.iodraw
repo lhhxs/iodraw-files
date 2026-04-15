@@ -245,7 +245,7 @@
           <mxGeometry x="-545" y="659.9" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="f285Z3YbVFBFcrV0KMRG-79" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fillColor=none;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="-460" y="40" width="540" height="360" as="geometry" />
+          <mxGeometry x="-460" y="40" width="540" height="300" as="geometry" />
         </mxCell>
         <mxCell id="f285Z3YbVFBFcrV0KMRG-80" value="互联网区" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="-435" y="30" width="70" height="30" as="geometry" />
