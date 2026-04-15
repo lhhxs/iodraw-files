@@ -337,6 +337,27 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="5PYBDwZLLyJBEGd_GKp0-12" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fillColor=none;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1131.13" y="988.65" width="383.87" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="5PYBDwZLLyJBEGd_GKp0-13" value="视频专网区" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1151.13" y="958.25" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5PYBDwZLLyJBEGd_GKp0-14" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.1u_2u_server;" vertex="1" parent="1">
+          <mxGeometry x="1210" y="1076.65" width="100" height="39.1" as="geometry" />
+        </mxCell>
+        <mxCell id="5PYBDwZLLyJBEGd_GKp0-15" value="设备接入服务器" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1205" y="1121.65" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5PYBDwZLLyJBEGd_GKp0-16" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.1u_2u_server;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="1076.65" width="100" height="39.1" as="geometry" />
+        </mxCell>
+        <mxCell id="5PYBDwZLLyJBEGd_GKp0-17" value="设备接入服务器" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1355" y="1121.65" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5PYBDwZLLyJBEGd_GKp0-18" value="安全边界" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1105" y="1018.7" width="40" height="230" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
