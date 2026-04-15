@@ -299,25 +299,25 @@
           <mxGeometry x="1250" y="415" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5PYBDwZLLyJBEGd_GKp0-3" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fillColor=none;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="-550" y="270" width="540" height="360" as="geometry" />
+          <mxGeometry x="1046.13" y="709.6" width="540" height="360" as="geometry" />
         </mxCell>
-        <mxCell id="5PYBDwZLLyJBEGd_GKp0-4" value="互联网区" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="-525" y="260" width="70" height="30" as="geometry" />
+        <mxCell id="5PYBDwZLLyJBEGd_GKp0-4" value="视频网区" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1071.13" y="699.6" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5PYBDwZLLyJBEGd_GKp0-5" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.1u_2u_server;" vertex="1" parent="1">
-          <mxGeometry x="-400" y="395.0000000000001" width="100" height="39.1" as="geometry" />
+          <mxGeometry x="1196.13" y="834.6000000000001" width="100" height="39.1" as="geometry" />
         </mxCell>
         <mxCell id="5PYBDwZLLyJBEGd_GKp0-6" value="设备接入服务器" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-405" y="440.0000000000001" width="110" height="30" as="geometry" />
+          <mxGeometry x="1191.13" y="879.6000000000001" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5PYBDwZLLyJBEGd_GKp0-7" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.1u_2u_server;" vertex="1" parent="1">
-          <mxGeometry x="-250" y="395.0000000000001" width="100" height="39.1" as="geometry" />
+          <mxGeometry x="1346.13" y="834.6000000000001" width="100" height="39.1" as="geometry" />
         </mxCell>
         <mxCell id="5PYBDwZLLyJBEGd_GKp0-8" value="设备接入服务器" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-255" y="440.0000000000001" width="110" height="30" as="geometry" />
+          <mxGeometry x="1341.13" y="879.6000000000001" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5PYBDwZLLyJBEGd_GKp0-9" value="安全边界" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-30" y="310" width="40" height="230" as="geometry" />
+          <mxGeometry x="1020.0000000000001" y="760.0500000000001" width="40" height="230" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
