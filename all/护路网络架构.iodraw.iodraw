@@ -298,6 +298,12 @@
         <mxCell id="f285Z3YbVFBFcrV0KMRG-95" value="公安大数据平台" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1250" y="415" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="5PYBDwZLLyJBEGd_GKp0-1" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fillColor=none;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="-550" y="270" width="540" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="5PYBDwZLLyJBEGd_GKp0-2" value="安全边界" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="310" width="40" height="230" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
