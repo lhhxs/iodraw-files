@@ -262,7 +262,7 @@
         <mxCell id="f285Z3YbVFBFcrV0KMRG-84" value="设备接入服务器" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-165" y="210.0000000000001" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="f285Z3YbVFBFcrV0KMRG-85" value="安全边界" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="f285Z3YbVFBFcrV0KMRG-85" value="安全边界" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=default;" parent="1" vertex="1">
           <mxGeometry x="60" y="80" width="40" height="230" as="geometry" />
         </mxCell>
         <mxCell id="f285Z3YbVFBFcrV0KMRG-86" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.05;exitY=0.541;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="f285Z3YbVFBFcrV0KMRG-85" target="f285Z3YbVFBFcrV0KMRG-1" edge="1">
