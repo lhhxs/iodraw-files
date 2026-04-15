@@ -213,43 +213,43 @@
           <mxGeometry x="80" y="600" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="f285Z3YbVFBFcrV0KMRG-66" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.video_camera;" parent="1" vertex="1">
-          <mxGeometry x="-480" y="750.5" width="52" height="25" as="geometry" />
+          <mxGeometry x="-520" y="676.05" width="52" height="25" as="geometry" />
         </mxCell>
         <mxCell id="f285Z3YbVFBFcrV0KMRG-67" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.cloud;" parent="1" vertex="1">
-          <mxGeometry x="-250" y="771" width="95" height="62" as="geometry" />
+          <mxGeometry x="-290" y="696.55" width="95" height="62" as="geometry" />
         </mxCell>
         <mxCell id="f285Z3YbVFBFcrV0KMRG-68" value="" style="endArrow=none;html=1;rounded=0;exitX=1.022;exitY=0.364;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="f285Z3YbVFBFcrV0KMRG-74" target="f285Z3YbVFBFcrV0KMRG-67" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-350" y="790" as="sourcePoint" />
-            <mxPoint x="-184" y="660" as="targetPoint" />
+            <mxPoint x="-390" y="715.55" as="sourcePoint" />
+            <mxPoint x="-224" y="585.55" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f285Z3YbVFBFcrV0KMRG-69" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="f285Z3YbVFBFcrV0KMRG-3" edge="1">
+        <mxCell id="f285Z3YbVFBFcrV0KMRG-69" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="f285Z3YbVFBFcrV0KMRG-77" target="f285Z3YbVFBFcrV0KMRG-3" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-180" y="780" as="sourcePoint" />
             <mxPoint x="-70" y="807" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="f285Z3YbVFBFcrV0KMRG-70" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.video_camera;" parent="1" vertex="1">
-          <mxGeometry x="-480" y="790.5" width="52" height="25" as="geometry" />
+          <mxGeometry x="-520" y="716.05" width="52" height="25" as="geometry" />
         </mxCell>
         <mxCell id="f285Z3YbVFBFcrV0KMRG-71" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.video_camera;" parent="1" vertex="1">
-          <mxGeometry x="-480" y="830.5" width="52" height="25" as="geometry" />
+          <mxGeometry x="-520" y="756.05" width="52" height="25" as="geometry" />
         </mxCell>
         <mxCell id="f285Z3YbVFBFcrV0KMRG-72" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.video_camera;" parent="1" vertex="1">
-          <mxGeometry x="-480" y="879.6" width="52" height="25" as="geometry" />
+          <mxGeometry x="-520" y="805.15" width="52" height="25" as="geometry" />
         </mxCell>
         <mxCell id="f285Z3YbVFBFcrV0KMRG-74" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-500" y="732.75" width="90" height="205.5" as="geometry" />
+          <mxGeometry x="-540" y="658.3" width="90" height="205.5" as="geometry" />
         </mxCell>
         <mxCell id="f285Z3YbVFBFcrV0KMRG-75" value="前端设备" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=default;" parent="1" vertex="1">
-          <mxGeometry x="-490" y="720.5" width="70" height="30" as="geometry" />
+          <mxGeometry x="-530" y="646.05" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="f285Z3YbVFBFcrV0KMRG-77" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fillColor=none;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="-560" y="660" width="510" height="320" as="geometry" />
+          <mxGeometry x="-600" y="585.55" width="510" height="320" as="geometry" />
         </mxCell>
         <mxCell id="f285Z3YbVFBFcrV0KMRG-78" value="VPDN专线" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=default;" parent="1" vertex="1">
-          <mxGeometry x="-545" y="639.9" width="80" height="30" as="geometry" />
+          <mxGeometry x="-585" y="565.4499999999999" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="f285Z3YbVFBFcrV0KMRG-79" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fillColor=none;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="-390" y="50" width="470" height="270" as="geometry" />
