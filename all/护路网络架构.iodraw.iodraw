@@ -239,7 +239,7 @@
           <mxGeometry x="-490" y="740.5" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="f285Z3YbVFBFcrV0KMRG-77" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fillColor=none;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="-560" y="640" width="540" height="360" as="geometry" />
+          <mxGeometry x="-560" y="680" width="540" height="320" as="geometry" />
         </mxCell>
         <mxCell id="f285Z3YbVFBFcrV0KMRG-78" value="VPDN专线" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="-545" y="627" width="80" height="30" as="geometry" />
