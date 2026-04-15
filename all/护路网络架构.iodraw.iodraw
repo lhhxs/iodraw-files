@@ -286,7 +286,7 @@
         <mxCell id="f285Z3YbVFBFcrV0KMRG-95" value="公安大数据平台" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1250" y="415" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5PYBDwZLLyJBEGd_GKp0-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=none;" edge="1" parent="1" source="5PYBDwZLLyJBEGd_GKp0-3" target="5PYBDwZLLyJBEGd_GKp0-18">
+        <mxCell id="5PYBDwZLLyJBEGd_GKp0-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=link;" edge="1" parent="1" source="5PYBDwZLLyJBEGd_GKp0-3" target="5PYBDwZLLyJBEGd_GKp0-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5PYBDwZLLyJBEGd_GKp0-3" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fillColor=none;dashed=1;" vertex="1" parent="1">
